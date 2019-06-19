@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # kuka-lagsds-tasks
 This package implements the LAGS-DS motion generator from [1] together with the passive-DS controller for the KUKA LWR 4+ robot in both simulation (gazebo) and with the real robot for the following tasks **learned from demonstration**:
 
@@ -78,12 +77,9 @@ roslaunch demo_voice_control gripper_voice_control.launch
 ```
 
 **References**   
-> [1] Figueroa, N. and Billard, A. (2018) "A Physically-Consistent Bayesian Non-Parametric Mixture Model for Dynamical System Learning". Conference on Robot Learning (CoRL) - 2018 Edition. To Appear. 
+> [1] Figueroa, N. and Billard, A. (2019) "Locally Active Globally Stable Dynamical Systems: Theory, Learning and Experiments". International Journal of Robotics Research (IJRR). Under Review. 
 
 **Contact**: [Nadia Figueroa](http://lasa.epfl.ch/people/member.php?SCIPER=238387) (nadia.figueroafernandez AT epfl dot ch)
 
 **Acknowledgments**
 This work was supported by the EU project [Cogimon](https://cogimon.eu/cognitive-interaction-motion-cogimon) H2020-ICT-23-2014.
-=======
-## kuka-lagsds-tasks
->>>>>>> 58953079a36e3896c5e99c9a812f3eeaad2db775
