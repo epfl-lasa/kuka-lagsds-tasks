@@ -19,8 +19,8 @@ Videos of the execution of these tasks on the real robot can be found here: [rob
 To run this package you must install the following dependencies:
 - [kuka-lwr-ros](https://github.com/epfl-lasa/kuka-lwr-ros.git) ``checkout 'nadia' branch`` | Control Interface for Kuka LWR 4+
 - [ds-motion-generator](https://github.com/epfl-lasa/ds_motion_generator.git) ``checkout 'nadia-lags' branch`` | DS motion generation nodes
-- [lagsDS-lib](https://github.com/nbfigueroa/lpvDS-lib) | lpv-DS class used by ds-motion-generator
-- [grasp-interface](https://github.com/epfl-lasa/grasp_interface) | To control the Robotiq S gripper from code 
+- [lagsDS-lib](https://github.com/nbfigueroa/lagsDS-lib) | lpv-DS class used by ds-motion-generator
+- [grasp-interface](https://github.com/epfl-lasa/grasp_interface) | To control the Robotiq S gripper from code (need for inspection task)
 
 ### Simulation
 1. Bring up the kuka-lwr-ros controller and simulator:
